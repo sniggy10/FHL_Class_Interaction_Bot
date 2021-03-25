@@ -1,0 +1,65 @@
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\appsettings.Development.json
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Cards\AgendaCard.json
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Cards\QuestionTemplate.json
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Manifest\manifest.json
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Content Bubble Bot.exe
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\appsettings.json
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Content Bubble Bot.deps.json
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Content Bubble Bot.runtimeconfig.json
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Content Bubble Bot.runtimeconfig.dev.json
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Content Bubble Bot.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Content Bubble Bot.pdb
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Content Bubble Bot.Views.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Content Bubble Bot.Views.pdb
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\AdaptiveCards.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\AdaptiveCards.Templating.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\AdaptiveExpressions.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Antlr4.Runtime.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Microsoft.Bot.Schema.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Nest.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\obj\Debug\netcoreapp3.1\Content Bubble Bot.AssemblyInfoInputs.cache
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\obj\Debug\netcoreapp3.1\Content Bubble Bot.AssemblyInfo.cs
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\obj\Debug\netcoreapp3.1\Content Bubble Bot.csproj.CoreCompileInputs.cache
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\obj\Debug\netcoreapp3.1\Content Bubble Bot.MvcApplicationPartsAssemblyInfo.cs
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\obj\Debug\netcoreapp3.1\Content Bubble Bot.MvcApplicationPartsAssemblyInfo.cache
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\obj\Debug\netcoreapp3.1\Content Bubble Bot.RazorAssemblyInfo.cache
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\obj\Debug\netcoreapp3.1\Content Bubble Bot.RazorAssemblyInfo.cs
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\obj\Debug\netcoreapp3.1\staticwebassets\Content Bubble Bot.StaticWebAssets.Manifest.cache
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\obj\Debug\netcoreapp3.1\staticwebassets\Content Bubble Bot.StaticWebAssets.xml
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\obj\Debug\netcoreapp3.1\scopedcss\bundle\Content Bubble Bot.styles.css
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\obj\Debug\netcoreapp3.1\Content Bubble Bot.TagHelpers.input.cache
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\obj\Debug\netcoreapp3.1\Content Bubble Bot.TagHelpers.output.cache
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\obj\Debug\netcoreapp3.1\Content Bubble Bot.RazorCoreGenerate.cache
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\obj\Debug\netcoreapp3.1\Razor\Pages\ContentBubble.cshtml.g.cs
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\obj\Debug\netcoreapp3.1\Content Bubble Bot.RazorTargetAssemblyInfo.cache
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\obj\Debug\netcoreapp3.1\Content Bubble Bot.RazorTargetAssemblyInfo.cs
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\obj\Debug\netcoreapp3.1\Content Bubble Bot.Views.pdb
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\obj\Debug\netcoreapp3.1\Content Bubble Bot.csproj.CopyComplete
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\obj\Debug\netcoreapp3.1\Content Bubble Bot.dll
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\obj\Debug\netcoreapp3.1\Content Bubble Bot.pdb
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\obj\Debug\netcoreapp3.1\Content Bubble Bot.genruntimeconfig.cache
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\bin\Debug\netcoreapp3.1\Cards\TextCard.json
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\obj\Debug\netcoreapp3.1\Razor\Views\Tab\First.cshtml.g.cs
+I:\project\Microsoft-Teams-Samples\samples\meetings-content-bubble\csharp\ContentBubble\obj\Debug\netcoreapp3.1\Content Bubble Bot.csprojAssemblyReference.cache

@@ -1,0 +1,28 @@
+{
+  "type": "AdaptiveCard",
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.2",
+  "body": [
+    {
+      "type": "TextBlock",
+      "text": "Here is Agenda for today!",
+      "wrap": true
+    },
+    {
+      "type": "Input.Text",
+      "id": "string",
+      "style": "expanded",
+      "isMultiLine": true,
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.Submit",
+      "id": "submit",
+      "title": "Push Agenda",
+      "data": {
+        "Type": "PushAgenda"
+      }
+    }
+  ]
+}

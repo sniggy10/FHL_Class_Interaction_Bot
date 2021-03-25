@@ -1,0 +1,43 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.8/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.8",
+  "version": "1.0.0",
+  "id": "fc250bf5-81e1-4380-b478-6057d93130af",
+  "packageName": "com.microsoft.teams.samples",
+  "developer": {
+    "name": "Microsoft",
+    "websiteUrl": "http://attendancepoc.azurewebsites.net/",
+    "privacyUrl": "http://attendancepoc.azurewebsites.net/privacy",
+    "termsOfUseUrl": "http://attendancepoc.azurewebsites.net/termsofuse"
+  },
+  "icons": {
+    "color": "color.png",
+    "outline": "outline.png"
+  },
+  "name": {
+    "short": "Content Bubble Demo",
+    "full": "Content Bubble Demo"
+  },
+  "description": {
+    "short": "Content bubble demo",
+    "full": " Sample app to demo how content bubble works."
+  },
+  "accentColor": "#FFFFFF",
+  "bots": [
+    {
+      "botId": "fc250bf5-81e1-4380-b478-6057d93130af",
+      "scopes": [
+        "personal",
+        "team",
+        "groupchat"
+      ],
+      "supportsFiles": false,
+      "isNotificationOnly": false
+    }
+  ],
+  "permissions": [
+    "identity",
+    "messageTeamMembers"
+  ],
+  "validDomains": [ "*.azurewebsites.net" ]
+}
